@@ -4,7 +4,7 @@ import 'package:namer_app/pages/login_page.dart';
 
 import '../components/text_field.dart';
 import '../config/app_route.dart';
-import '../config/app_strings.dart';
+// import '../config/app_strings.dart';
 import '../styles/appcolor.dart';
 // import 'package:namer_app/components/appbar.dart';
 
